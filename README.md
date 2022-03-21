@@ -6,7 +6,7 @@
 
 
 ### 💪 MY STATS
-![H-JJOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssaaa88916&theme=tokyonight&show_icons=true)
+![H-JJOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-JJOO&theme=tokyonight&show_icons=true)
 <hr>
 
 <!--
