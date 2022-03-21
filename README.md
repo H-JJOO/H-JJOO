@@ -1,16 +1,16 @@
 ### Hi there 👋
 ---
-<a href="mailto:sar6747@naver.com" target="_black"><img src="https://img.shields.io/badge/sar6747@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white%22/%3E</a>
+<a href="mailto:icepri3535@gmail.com" target="_black"><img src="https://img.shields.io/badge/sar6747@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white%22/%3E</a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssaa889)](https://solved.ac/ssaa889/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=icepri3535)](https://solved.ac/icepri3535/)
 
 
 ### 💪 MY STATS
-![sssaaa88916's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssaaa88916&theme=tokyonight&show_icons=true)
+![H-JJOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssaaa88916&theme=tokyonight&show_icons=true)
 <hr>
 
 <!--
-sssaaa88916/sssaaa88916 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+H-JJOO/H-JJOO is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
