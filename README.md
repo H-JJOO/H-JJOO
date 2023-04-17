@@ -10,9 +10,9 @@ Hello! I'm a software developer from Korea.
 
 ## My Achievements
 
-[![Programmers Rank](https://programmers.co.kr/assets/static/favicon/apple-icon-76x76.png)](https://programmers.co.kr/profile/icepri3535@naver.com)
-[![Programmers Solved](https://static.programmers.co.kr/learn/courses/30/lessons/12973/12973.svg?ver=1610135655000)](https://programmers.co.kr/profile/icepri3535@naver.com)
-[![Programmers Test Score](https://static.programmers.co.kr/learn/courses/30/lessons/12973.png?ver=1610135655000)](https://programmers.co.kr/profile/icepri3535@naver.com)
+[![Programmers Rank](https://programmers.co.kr/assets/static/favicon/apple-icon-76x76.png)](https://programmers.co.kr/profile/Hyeonjin Joo)
+[![Programmers Solved](https://static.programmers.co.kr/learn/courses/30/lessons/12973/12973.svg?ver=1610135655000)](https://programmers.co.kr/profile/Hyeonjin Joo)
+[![Programmers Test Score](https://static.programmers.co.kr/learn/courses/30/lessons/12973.png?ver=1610135655000)](https://programmers.co.kr/profile/Hyeonjin Joo)
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=icepri3535)](https://solved.ac/icepri3535/)
