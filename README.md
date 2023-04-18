@@ -10,7 +10,7 @@ Hello! I'm a software developer from Korea.
 
 ## My Achievements
 
-[![Programmers Rank](https://programmers.co.kr/assets/static/favicon/apple-icon-76x76.png)](https://programmers.co.kr/profile/H-JJOO)
+[![Programmers Rank](https://programmers.co.kr/assets/static/favicon/apple-icon-76x76.png)](https://programmers.co.kr/profile/icepri3535@gmail.com)
 [![Programmers Solved](https://static.programmers.co.kr/learn/courses/30/lessons/12973/12973.svg?ver=1610135655000)](https://programmers.co.kr/profile/Hyeonjin Joo)
 [![Programmers Test Score](https://static.programmers.co.kr/learn/courses/30/lessons/12973.png?ver=1610135655000)](https://programmers.co.kr/profile/Hyeonjin Joo)
 
